@@ -19,10 +19,13 @@
 ---
 
 ## 🛠️ Projects
-- 🔗 [Portfolio Website](https://ahmedkessi.github.io/-portfolio);
-- 🔗 [Portfolio Website](https://ahmedkessi.github.io/vpn/);
-- 🔗 [Portfolio Website](https://ahmedkessi.github.io/Age-Caculator);
-- 🔗 [Portfolio Website](https://ahmedkessi.github.io/User-Form);
+- 🔗 [Portfolio Website](https://ahmedkessi.github.io/-portfolio/);
+- 🔗 [VPN small mobile web](https://ahmedkessi.github.io/vpn/);
+- 🔗 [Age Caculator](https://ahmedkessi.github.io/Age-Caculator/);
+- 🔗 [User Form](https://ahmedkessi.github.io/User-Form/);
+- 🔗 [Calculator](https://ahmedkessi.github.io/Calculator/);
+- 🔗 [Todo List](https://ahmedkessi.github.io/todo/);
+- 🔗 [Youtube](https://ahmedkessi.github.io/Youtube/);
 - 📊 Accounting Dashboard with Excel
 - 👨‍🏫 School Management Software (In Progress);
 
