@@ -26,6 +26,7 @@
 - 🔗 [Calculator](https://ahmedkessi.github.io/Calculator/);
 - 🔗 [Todo List](https://ahmedkessi.github.io/todo/);
 - 🔗 [Youtube](https://ahmedkessi.github.io/Youtube/);
+- 🔗 [Repair website created for company](https://ahmedkessi.github.io/repair-website-project/);
 - 📊 Accounting Dashboard with QuickBook and Excel
 - 👨‍🏫 Content Management Software (In Progress);
 
