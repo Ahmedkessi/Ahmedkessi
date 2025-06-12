@@ -26,8 +26,8 @@
 - 🔗 [Calculator](https://ahmedkessi.github.io/Calculator/);
 - 🔗 [Todo List](https://ahmedkessi.github.io/todo/);
 - 🔗 [Youtube](https://ahmedkessi.github.io/Youtube/);
-- 📊 Accounting Dashboard with Excel
-- 👨‍🏫 School Management Software (In Progress);
+- 📊 Accounting Dashboard with QuickBook and Excel
+- 👨‍🏫 Content Management Software (In Progress);
 
 ---
 
