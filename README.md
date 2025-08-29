@@ -4,7 +4,7 @@
 
 ⏸I start learning web devlopment 1 jan 2025.
 🌍 I’m based in Mogadishu, Somalia  
-💼 I’m currently learning: JavaScript, React, nextJs, and more  
+💼 I’m currently practicing with: JavaScript, HTML, and advanced CSS. 
 📚 I have a background in Accounting and Bookkeeping.  
 🛠️ Tools: VS Code | Git & GitHub | Figma | QuickBooks | Excel | HTML | CSS | JavaScript  
 
@@ -19,19 +19,16 @@
 ---
 
 ## 🛠️ Projects
+- 🔗 [Flow Desk **modern Todo app**](https://flowdesk-v1.netlify.app/);
+- 🔗 [Repair website created for company](https://ikaaycenter.netlify.app);
 - 🔗 [Portfolio Website](https://ahmedkessi.github.io/-portfolio/);
-- 🔗 [VPN small mobile web](https://ahmedkessi.github.io/vpn/);
-- 🔗 [Age Caculator](https://ahmedkessi.github.io/Age-Caculator/);
-- 🔗 [User Form](https://ahmedkessi.github.io/User-Form/);
-- 🔗 [Calculator](https://ahmedkessi.github.io/Calculator/);
-- 🔗 [Todo List](https://ahmedkessi.github.io/todo/);
-- 🔗 [Youtube](https://ahmedkessi.github.io/Youtube/);
-- 🔗 [Repair website created for company](https://ahmedkessi.github.io/repair-website-project/);
 - 🔗 [Portfolio 2](https://ahmedkessi.github.io/Portfolio2/);
 - 🔗 [Portfolio 3](https://ahmedkessi.github.io/Portfolio3/);
 - 🔗 [Portfolio 4](https://ahmedkessi.github.io/Portfolio4/);
-- 🔗 [Ahmed gbt😅](https://ahmedkessi.github.io/Ahmedgbt/);
+- 🔗 [Age Caculator](https://ahmedkessi.github.io/Age-Caculator/);
+- 🔗 [Calculator](https://ahmedkessi.github.io/Calculator/);
 - 🔗 [Blog website](https://ahmedkessi.github.io/blog1/);
+
 - 📊 Accounting Dashboard with QuickBook and Excel
 - 👨‍🏫 Content Management Software (In Progress);
 
