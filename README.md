@@ -4,7 +4,7 @@
 
 ⏸I start learning web devlopment 1 jan 2025.
 🌍 I’m based in Mogadishu, Somalia  
-💼 I’m currently practicing with: JavaScript, HTML, and advanced CSS. 
+💼 I’m currently Learning with: ReactJS. 
 📚 I have a background in Accounting and Bookkeeping.  
 🛠️ Tools: VS Code | Git & GitHub | Figma | QuickBooks | Excel | HTML | CSS | JavaScript  
 
