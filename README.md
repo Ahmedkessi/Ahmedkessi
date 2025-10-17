@@ -20,6 +20,7 @@
 
 ## 🛠️ Projects
 - 🔗 [Flow Desk **modern Todo app**](https://flowdesk-v1.netlify.app/);
+- 🔗 [NeoPhone **Landing page**](https://neo-phone.netlify.app/);
 - 🔗 [Repair website **created for company**](https://ikaaycenter.netlify.app);
 - 🔗 [Portfolio Website](https://ahmedkessi.github.io/-portfolio/);
 - 🔗 [Portfolio 2](https://ahmedkessi.github.io/Portfolio2/);
