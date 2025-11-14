@@ -1,20 +1,8 @@
-# 👋 Hi, I’m Ahmed Osman
+# 👋 Hi, I’m Ahmed Osman.
 
-🎯 I’m on a mission to become a professional Full-Stack Developer.
-
-⏸I start learning web devlopment 1 jan 2025.
-🌍 I’m based in Mogadishu, Somalia  
-💼 I’m currently Learning with: ReactJS. 
+💼 I’m Self-taught developer. 
+🚀 I love coding, and constantly exploring new ideas. 
 📚 I have a background in Accounting and Bookkeeping.  
-🛠️ Tools: VS Code | Git & GitHub | Figma | QuickBooks | Excel | HTML | CSS | JavaScript  
-
----
-
-## 🚀 Current Goals
-- Learn Full-Stack Web Development 💻
-- Become a CEO 🔐
-- Build software for schools and companies 🏫🏢
-- Become a millionaire by 25 💰
 
 ---
 
@@ -29,12 +17,9 @@
 - 🔗 [Age Caculator](https://ahmedkessi.github.io/Age-Caculator/);
 - 🔗 [Calculator](https://ahmedkessi.github.io/Calculator/);
 - 🔗 [Blog website](https://ahmedkessi.github.io/blog1/);
-
-- 📊 Accounting Dashboard with QuickBook and Excel
-- 👨‍🏫 Content Management Software (In Progress);
-
+- 
 ---
 
 ## 📫 Let’s Connect!
-- Email: ahmedkessijohns@gmail.com  
+- Email: ahmedisman616@gmail.com  
 - GitHub: [@yAhmedkessi](https://github.com/Ahmedkessi)  
