@@ -7,6 +7,7 @@
 ---
 
 ## 🛠️ Projects
+- 🔗 [WorldSense **geography, educational and game platform **](https://worldsense.netlify.app/);
 - 🔗 [Flow Desk **modern Todo app**](https://flowdesk-v1.netlify.app/);
 - 🔗 [NeoPhone **Landing page**](https://neo-phone.netlify.app/);
 - 🔗 [Repair website **created for company**](https://ikaaycenter.netlify.app);
