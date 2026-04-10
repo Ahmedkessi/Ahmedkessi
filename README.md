@@ -3,6 +3,7 @@
 💼 I’m Self-taught developer. 
 🚀 I love coding, and constantly exploring new ideas. 
 📚 I have a background in Accounting and Bookkeeping.  
+🧭 Skill s= {bookkeeping: ["QuickBook", "Sage50", "Point of Sale --POS", "Excel"], front-end developement: ["html", "css", "JavaScript", "ReactJs", "Tailwind CSS", "Supabase"]}
 
 ---
 
@@ -11,14 +12,8 @@
 - 🔗 [Flow Desk **modern Todo app**](https://flowdesk-v1.netlify.app/);
 - 🔗 [NeoPhone **Landing page**](https://neo-phone.netlify.app/);
 - 🔗 [Repair website **created for company**](https://ikaaycenter.netlify.app);
-- 🔗 [Portfolio Website](https://ahmedkessi.github.io/-portfolio/);
-- 🔗 [Portfolio 2](https://ahmedkessi.github.io/Portfolio2/);
-- 🔗 [Portfolio 3](https://ahmedkessi.github.io/Portfolio3/);
-- 🔗 [Portfolio 4](https://ahmedkessi.github.io/Portfolio4/);
-- 🔗 [Age Caculator](https://ahmedkessi.github.io/Age-Caculator/);
 - 🔗 [Calculator](https://ahmedkessi.github.io/Calculator/);
-- 🔗 [Blog website](https://ahmedkessi.github.io/blog1/);
-- 
+- 🧷 [See All Repositories] (https://github.com/Ahmedkessi?page=1&tab=repositories);
 ---
 
 ## 📫 Let’s Connect!
