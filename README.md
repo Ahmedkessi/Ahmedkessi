@@ -3,7 +3,13 @@
 💼 I’m Self-taught developer. 
 🚀 I love coding, and constantly exploring new ideas. 
 📚 I have a background in Accounting and Bookkeeping.  
-🧭 Skill s= {bookkeeping: ["QuickBook", "Sage50", "Point of Sale --POS", "Excel"], front-end developement: ["html", "css", "JavaScript", "ReactJs", "Tailwind CSS", "Supabase"]}
+🧭 Skills = { 
+              bookkeeping: 
+                          ["QuickBook", "Sage50", "Point of Sale --POS", "Excel"] 
+                          ,
+              front-end developement: 
+                          ["html", "css", "JavaScript", "ReactJs", "Tailwind CSS", "Supabase"]
+            }
 
 ---
 
@@ -13,7 +19,7 @@
 - 🔗 [NeoPhone **Landing page**](https://neo-phone.netlify.app/);
 - 🔗 [Repair website **created for company**](https://ikaaycenter.netlify.app);
 - 🔗 [Calculator](https://ahmedkessi.github.io/Calculator/);
-- 🧷 [See All Repositories] (https://github.com/Ahmedkessi?page=1&tab=repositories);
+- 🧷 [See All Projects] (https://github.com/Ahmedkessi?page=1&tab=repositories);
 ---
 
 ## 📫 Let’s Connect!
