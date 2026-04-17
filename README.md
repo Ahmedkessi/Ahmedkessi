@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Projects
 
-- 🌍 [**WorldSense** – Geography Learning Platform](https://worldsense.netlify.app/)  
+- 🌍 [**WorldSense** – Geography Learning Platform](https://worldsense.vercel.app/)  
   Interactive educational platform combining maps, quizzes, and real-time data.
 
 - ✅ [**FlowDesk** – Modern Todo App](https://flowdesk-v1.netlify.app/)  
