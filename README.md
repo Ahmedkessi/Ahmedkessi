@@ -30,6 +30,9 @@
 - ✅ [**FlowDesk** – Modern Todo App](https://flowdesk-v1.netlify.app/)  
   Clean productivity tool focused on usability and performance.
 
+- 🏨 [**The Wild Oasis** - A hotel management application built with React](https://the-hidden-oasis.netlify.app/)
+   This project was completed as part of Jonas Schmedtmann’s Ultimate React Course.
+
 - 📱 [**NeoPhone** – Product Landing Page](https://neo-phone.netlify.app/)  
   High-conversion UI/UX landing page design.
 
